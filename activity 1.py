@@ -18,4 +18,4 @@ def numberOfBits(n):
         print("\n\Ones =",ones,"\nZeros ",zeros)
 
 number = int(input("Enter your number : "))
-numberOfBits(number)
+numberOfBits(number)  
